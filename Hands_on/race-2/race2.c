@@ -62,5 +62,5 @@ static void __exit tdemo_exit(void) {       //cleanup_module
 module_init(tdemo_init);
 module_exit(tdemo_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Rajesh Sola");
-MODULE_DESCRIPTION("Thread Example Module");
+MODULE_AUTHOR("Neha");
+MODULE_DESCRIPTION("Thread Module");
