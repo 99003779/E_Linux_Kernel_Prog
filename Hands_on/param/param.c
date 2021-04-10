@@ -15,6 +15,6 @@ static void __exit pdemo_exit(void)
 module_init(pdemo_init);
 module_exit(pdemo_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your name");
+MODULE_AUTHOR("Neha");
 MODULE_DESCRIPTION("Parameter demo Module");
 
