@@ -67,5 +67,5 @@ static void __exit tdemo_exit(void)
 module_init(tdemo_init);
 module_exit(tdemo_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your name");
-MODULE_DESCRIPTION("Parameter demo Module");
+MODULE_AUTHOR("Neha");
+MODULE_DESCRIPTION("Parameter Module");
