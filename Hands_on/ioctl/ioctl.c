@@ -167,7 +167,7 @@ static void __exit psuedo_exit(void)
 module_init(psuedo_init);
 module_exit(psuedo_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your name");
+MODULE_AUTHOR("Neha");
 MODULE_DESCRIPTION("Parameter demo Module");
 
 
