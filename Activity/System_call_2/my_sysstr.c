@@ -13,7 +13,7 @@ SYSCALL_DEFINE1(mys, char*, stri)
  
 	if(n)
 	{
-		printk("gsdgig");
+		printk("abcdef");
 		-EFAULT;
  	}
  	printk("my systemcall string is %s\n", buf);
